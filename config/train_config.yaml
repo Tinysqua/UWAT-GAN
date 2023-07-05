@@ -1,0 +1,16 @@
+batchsize: 2
+epoch: 139
+official_data_path: "dataset/data"
+
+img_size: 
+  - 832
+  - 1088
+# img_size: 
+#   - 256
+#   - 256
+
+if_resume: True
+to_shuffle: True
+use_separable: False
+normal_vit: False
+save_weights_up_dir: weights/exp8/

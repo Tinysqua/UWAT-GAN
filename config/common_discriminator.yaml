@@ -1,0 +1,19 @@
+batchsize: 1
+epoch: 5
+num_D: 2
+n_layers: 3
+official_data_path: "dataset/data3"
+
+original_img_size: [2432, 3072]
+img_size: [608, 768]
+# probably size: [1216, 1536]， [608, 768]
+patch_img_size: 256
+local_n_downsample: 2
+global_n_downsample: 3
+
+if_resume: True
+if_train_separatly: False
+if_test_fid: False
+to_shuffle: True
+save_weights_up_dir: weights/exp15/
+norm_name: 'instance'
