@@ -18,7 +18,7 @@ This code is the pytorch implementation of our paper "UWAT-GAN: Fundus Fluoresce
 pip install -r requirements.txt
 ```
 ### Configure the checkpoints
-Fistly download the [checkpoint]() named as the **'UWFA-GAN_checkpoints'**, move it into the project directory and rename it to the **'checkpoints'**.
+Fistly download the [checkpoint](https://drive.google.com/drive/folders/1JOWtSrZyISRVmj4zi_du1XpgVdcOoyCp?usp=drive_link) named as the **'UWFA-GAN_checkpoints'**, move it into the project directory and rename it to the **'checkpoints'**.
 ```
 ├── checkpoints
     ├──d_model_1_fine.pt
