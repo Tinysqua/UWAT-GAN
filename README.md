@@ -17,7 +17,15 @@ This code is the pytorch implementation of our paper "UWAT-GAN: Fundus Fluoresce
 ```bash
 pip install -r requirements.txt
 ```
-
+### Configure the checkpoints
+Fistly download the [checkpoint]() named as the **'UWFA-GAN_checkpoints'**, move it into the project directory and rename it to the **'checkpoints'**.
+```
+├── checkpoints
+    ├──d_model_1_fine.pt
+    ├──d_model_2_coarse
+    ├──g_model_coarse
+    ├──g_model_fine
+``` 
 ### Evaluation dataset
 Due the privacy of our dataset, we only provide 4 pictures for the result viewing. They are located at './example_pics/' 
 ```
