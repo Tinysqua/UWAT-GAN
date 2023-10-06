@@ -60,12 +60,12 @@ coarse generator generates, while the './Fine_result' corresponds to results fin
 
 # Citation
 ```
-@InProceedings{chen_2022_arXiv,
-    author    = {Chen, Zijiao and Qing, Jiaxin and Xiang, Tiange and Yue, Wan Lin and Zhou, Juan Helen},
-    title     = {Seeing Beyond the Brain: Masked Modeling Conditioned Diffusion Model for Human Vision Decoding},
-    booktitle = {arXiv},
-    month     = {November},
-    year      = {2022},
-    url       = {https://arxiv.org/abs/2211.06956}
+@InProceedings{10.1007/978-3-031-43990-2_70,
+    author    = {Fang, Zhaojie and Chen, Zhanghao and Wei, Pengxue and Li, Wangting and Zhang, Shaochong and Elazab, Ahmedand Jia, Gangyong and Ge, Ruiquan and Wang, Changmiao},
+    title     = {UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-Wide-Angle Transformation Multi-scale GAN},
+    booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2023},
+    month     = {October},
+    year      = {2023},
+    url       = {https://arxiv.org/abs/2307.11530}
 }
 ```
