@@ -1,5 +1,9 @@
-# **UWAT-GAN**
+# **MICCAI 2023 UWAT-GAN**
 This code is the pytorch implementation of our paper "UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN". It can be used to turning UWF scanning laser ophthalmoscopy(UWF-SLO) to the UWF fluorescein angiography(UWF-FFA) and display the tiny vascular lesion areas.  
+
+## New Version
+You can find our improved vision of UWAT-GAN, called [UWAT-GAN-R](https://github.com/Tinysqua/UWAT-GAN-R)
+
 <br><br>
 ![](/asset/Fig_1.png)
 <br><br>
@@ -53,3 +57,15 @@ the running results are saved in the directories './result_save' and two sub-dir
 ```
 The './Coarse_result' saves the results 
 coarse generator generates, while the './Fine_result' corresponds to results fine generator generates.  
+
+# Citation
+```
+@InProceedings{chen_2022_arXiv,
+    author    = {Chen, Zijiao and Qing, Jiaxin and Xiang, Tiange and Yue, Wan Lin and Zhou, Juan Helen},
+    title     = {Seeing Beyond the Brain: Masked Modeling Conditioned Diffusion Model for Human Vision Decoding},
+    booktitle = {arXiv},
+    month     = {November},
+    year      = {2022},
+    url       = {https://arxiv.org/abs/2211.06956}
+}
+```
