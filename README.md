@@ -60,7 +60,7 @@ coarse generator generates, while the './Fine_result' corresponds to results fin
 
 # Citation
 ```
-@InProceedings{10.1007/978-3-031-43990-2_70,
+@InProceedings{fang2023uwat,
     author    = {Fang, Zhaojie and Chen, Zhanghao and Wei, Pengxue and Li, Wangting and Zhang, Shaochong and Elazab, Ahmedand Jia, Gangyong and Ge, Ruiquan and Wang, Changmiao},
     title     = {UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-Wide-Angle Transformation Multi-scale GAN},
     booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2023},
