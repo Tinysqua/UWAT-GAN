@@ -66,6 +66,6 @@ coarse generator generates, while the './Fine_result' corresponds to results fin
     booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2023},
     month     = {October},
     year      = {2023},
-    url       = {https://arxiv.org/abs/2307.11530}
+    url       = {https://link.springer.com/chapter/10.1007/978-3-031-43990-2_70}
 }
 ```
