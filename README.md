@@ -69,3 +69,6 @@ coarse generator generates, while the './Fine_result' corresponds to results fin
     url       = {https://link.springer.com/chapter/10.1007/978-3-031-43990-2_70}
 }
 ```
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Tinysqua/UWAT-GAN&type=Date)](https://star-history.com/#Tinysqua/UWAT-GAN&Date)
