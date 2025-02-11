@@ -1,4 +1,13 @@
 # **MICCAI 2023 UWAT-GAN**
+
+<div align="center">
+
+[![](https://img.shields.io/github/stars/Tinysqua/UWAT-GAN)](https://github.com/Tinysqua/UWAT-GAN)
+[![](https://img.shields.io/github/forks/Tinysqua/UWAT-GAN)](https://github.com/Tinysqua/UWAT-GAN)
+[![](https://img.shields.io/github/issues/Tinysqua/UWAT-GAN)](https://github.com/Tinysqua/UWAT-GAN)
+[![](https://img.shields.io/github/license/Tinysqua/UWAT-GAN)](https://github.com/Tinysqua/UWAT-GAN/blob/main/LICENSE)
+</div>
+
 This code is the pytorch implementation of our paper "UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN". It can be used to turning UWF scanning laser ophthalmoscopy(UWF-SLO) to the UWF fluorescein angiography(UWF-FFA) and display the tiny vascular lesion areas.  
 
 ## New Version
